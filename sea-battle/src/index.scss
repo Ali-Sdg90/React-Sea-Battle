@@ -1,6 +1,12 @@
+@import "./assets/fonts/index.css";
+@import "./assets/scss/index.scss";
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+}
+
+body {
+    font-family: "PressStart2P", monospace !important;
 }

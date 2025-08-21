@@ -1,4 +1,5 @@
 import React from "react";
+import "./BuyPage.scss";
 
 const BuyPage = () => {
     return (
