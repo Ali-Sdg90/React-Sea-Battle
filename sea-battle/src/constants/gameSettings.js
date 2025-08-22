@@ -1,1 +1,5 @@
-// Grid size, turn count, base money
+const GRID_SIZE = 10;
+const TURN_COUNT = 30;
+const BASE_MONEY = 1000;
+
+export { GRID_SIZE, TURN_COUNT, BASE_MONEY };

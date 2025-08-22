@@ -1,0 +1,16 @@
+.react-grid-item {
+    transition: none !important;
+}
+
+.react-grid-item.cssTransforms {
+    transition: none !important;
+}
+
+.drag-handle {
+    width: 100%;
+    height: 100%;
+    cursor: grab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

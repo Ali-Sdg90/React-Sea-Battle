@@ -1,3 +1,4 @@
-@import "mixins";
-@import "theme";
-@import "variables";
+@use "../fonts/index.scss";
+@use "mixins";
+@use "theme";
+@use "variables";
